@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+}
+body{
+   
+    font-family: 'Oswald', sans-serif;
+    font-style: initial;
+    color: #fff;
+    text-align: center;
+    height: 100%;
+    background-color: rgb(8, 4, 32);
+    overflow: hidden;
+     
+
+}
+/* .row{
+    background-color: transparent;
+} */
+
+h1{  
+    padding-top: 150px;
+    font-size: 100px;
+    overflow: hidden;
+    padding-bottom: 20px;
+
+}
+
+
+h1:hover {
+    text-shadow:
+    0 0 10px #3498DB,
+    0 0 20px #3498DB,
+    0 0 30px #3498DB,
+    0 0 40px #2980B9,
+    0 0 70px #2980B9,
+    0 0 80px #2980B9,
+    0 0 100px #2980B9,
+    0 0 150px #2980B9;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    
+    
+
+}
